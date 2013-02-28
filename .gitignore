@@ -1,5 +1,6 @@
 .bundle
 .document
+.rvmrc
 
 ## MAC OS
 .DS_Store
